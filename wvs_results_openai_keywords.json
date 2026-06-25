@@ -1,0 +1,1330 @@
+{
+  "Orthodox_Europe": {
+    "Q106": {
+      "answer": "3",
+      "keywords": "social justice, inequality concerns, fair wages, state responsibility, solidarity"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "mixed economy, private initiative, social safety net, strategic state role, post-Soviet experience"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social safety net, state responsibility, solidarity, limited welfare abuse, personal effort"
+    },
+    "Q109": {
+      "answer": "6",
+      "keywords": "social cohesion, inequality concerns, solidarity, state responsibility, community values"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "effort matters, education, personal responsibility, systemic barriers, connections help"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "long-term future, health, responsibility to nature, sustainable development, avoid corruption"
+    },
+    "Q164": {
+      "answer": "9",
+      "keywords": "faith, tradition, family, moral-guidance, church-community"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "Orthodox upbringing, cultural tradition, personal faith, spiritual comfort, family influence"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "orthodox faith,resurrection,soul,heaven and hell,church teaching"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "orthodox faith, divine justice, moral responsibility, spiritual consequence, church teaching"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "orthodox faith, afterlife hope, church teaching, spiritual worldview, christian tradition"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "respect tradition, value science, interpret scripture, seek harmony, context dependent"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "respect for others, religious pluralism, personal conviction, cultural tradition, coexistence"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "major feasts, cultural tradition, family expectations, Orthodox identity, not very devout"
+    },
+    "Q172": {
+      "answer": "3",
+      "keywords": "raised orthodox, personal faith, not very devout, pray at home, cultural tradition"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "tradition, orthodoxy, family values, cultural identity, faith"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "love of neighbor, practical compassion, living faith, moral responsibility, everyday kindness"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "tradition, moral_guidance, community, daily_life, identity"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "changing values, tradition vs modernity, moral confusion, conflicting influences, search for guidance"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "dishonesty, corruption concerns, unfair to others, moral disapproval, weak trust in state"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "dishonesty, social responsibility, weak enforcement, economic hardship, minor offense"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "morally wrong, violates commandments, harms others, only extreme necessity, strong social disapproval"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "immoral, harms society, weak institutions, unfair to others, religious values"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, abuse of power, undermines trust, unfair advantage, moral wrongdoing"
+    },
+    "Q182": {
+      "answer": "3",
+      "keywords": "traditional values, religious teachings, social stigma, limited acceptance, moral reservations"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "morally wrong, social stigma, economic desperation, personal freedom, harm reduction"
+    },
+    "Q184": {
+      "answer": "4",
+      "keywords": "respect for life, moral concerns, health exceptions, early pregnancy, difficult circumstances"
+    },
+    "Q185": {
+      "answer": "6",
+      "keywords": "protect well-being, serious marital breakdown, children\u2019s interests, last resort, moral responsibility"
+    },
+    "Q186": {
+      "answer": "6",
+      "keywords": "personal choice, changing norms, traditional values, commitment important, moral flexibility"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "religious prohibition, sanctity of life, compassion for suffering, mental health struggle, seek help"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "sanctity of life, religious beliefs, suffering relief, exceptional cases, moral concern"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "violence unacceptable, respect in marriage, religious values, human dignity, legal protection"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline not violence,traditional upbringing,psychological harm,better non-violent methods,legal and moral concerns"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "self-defense, respect for life, last resort, moral responsibility, rule of law"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "innocent lives, moral red line, rule of law, historical trauma, social stability"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "traditional values, importance of commitment, religious teachings, emotional consequences, social reputation"
+    },
+    "Q194": {
+      "answer": "3",
+      "keywords": "only in self-defense,protecting homeland,avoid civilian harm,prefer dialogue,deep historical trauma"
+    },
+    "Q195": {
+      "answer": "4",
+      "keywords": "respect for life, deterrence doubts, judicial errors, cultural conservatism, prefer imprisonment"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, crime_prevention, terrorism_threat, public_spaces, privacy_concerns"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, abuse_of_power, democracy, distrust_in_authorities, human_rights"
+    },
+    "Q198": {
+      "answer": "3",
+      "keywords": "privacy, past surveillance abuses, distrust of authorities, security concerns, need for oversight"
+    }
+  },
+  "African-Islamic": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "social justice, basic needs, opportunity, moderate inequality, responsibility"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "mixed economy, private sector efficiency, state regulation, social justice, anti-corruption"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social safety net, Islamic solidarity, state responsibility, personal effort, reduce inequality"
+    },
+    "Q109": {
+      "answer": "6",
+      "keywords": "community, cooperation, social justice, shared success, ethical limits"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "effort, divine_will, education, opportunity, perseverance"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "future generations, stewardship, climate vulnerability, sustainable development, moral responsibility"
+    },
+    "Q164": {
+      "answer": "9",
+      "keywords": "faith, guidance, community, moral_values, daily_practice"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, islam, upbringing, spirituality, purpose"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Islamic belief, afterlife, accountability, heaven and hell, divine justice"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Islamic faith, divine justice, moral accountability, afterlife belief, Quranic teaching"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "islamic faith, afterlife, divine justice, quran teachings, spiritual hope"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "complementary, interpretation, context, evolving-knowledge, faith-and-reason"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "respect, pluralism, coexistence, personal-faith, tolerance"
+    },
+    "Q171": {
+      "answer": "2",
+      "keywords": "weekly_jummah_prayer, muslim_practice, community_connection, personal_faith, cultural_norm"
+    },
+    "Q172": {
+      "answer": "1",
+      "keywords": "Muslim, daily prayers, cultural norm, personal faith, religious duty"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "believe in God, raised religious, cultural tradition, daily prayers, moral guidance"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, justice, helping others, moral responsibility, serving God through people"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "guidance for daily life,justice and ethics,community and solidarity,connection to God,holistic way of living"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "changing values, religious guidance, cultural diversity, moral confusion, need for clarity"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "haram, dishonesty, corruption, social justice, religious duty"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "dishonesty, harms public services, religious values, social responsibility, rare desperation"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "morally wrong, violates rights, allowed in necessity, extreme hardship exception, generally forbidden"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "religious duty,honesty,corruption concerns,social trust,legal obligation"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, haram, betraying trust, injustice, undermines institutions"
+    },
+    "Q182": {
+      "answer": "2",
+      "keywords": "religious beliefs, cultural norms, social stigma, family expectations, moral concerns"
+    },
+    "Q183": {
+      "answer": "2",
+      "keywords": "religious prohibition, moral concerns, social stigma, exploitation risk, family values"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "generally forbidden in Islam, sanctity of life, allowed to save mother, rare exceptional cases, moral and religious duty"
+    },
+    "Q185": {
+      "answer": "6",
+      "keywords": "allowed in Islam, last resort, protect well-being, avoid oppression, family impact"
+    },
+    "Q186": {
+      "answer": "2",
+      "keywords": "religious teachings, cultural norms, family honor, moral restraint, social expectations"
+    },
+    "Q187": {
+      "answer": "1",
+      "keywords": "religious prohibition, sanctity of life, divine decree, moral duty, communal responsibility"
+    },
+    "Q188": {
+      "answer": "2",
+      "keywords": "sanctity of life, religious prohibition, only God decides death, suffering as test, limited rare exceptions"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "unislamic, domestic_violence, human_dignity, mutual_respect, conflict_resolution"
+    },
+    "Q190": {
+      "answer": "3",
+      "keywords": "discipline, cultural_norms, emotional_harm, alternative_methods, changing_attitudes"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "only_self_defense, sanctity_of_life, religious_values, legal_consequences, moral_responsibility"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "sanctity of life, religious prohibition, moral rejection, social harm, political instability"
+    },
+    "Q193": {
+      "answer": "2",
+      "keywords": "religious values, premarital sex forbidden, social stigma, family honor, moral boundaries"
+    },
+    "Q194": {
+      "answer": "3",
+      "keywords": "only in self-defense, protect community, last resort, avoid civilian harm, prefer peaceful solutions"
+    },
+    "Q195": {
+      "answer": "4",
+      "keywords": "sanctity of life, deterrence doubts, judicial fallibility, limited exceptions, moral hesitation"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, crime_prevention, terrorism_threats, privacy_concerns, government_trust"
+    },
+    "Q197": {
+      "answer": "3",
+      "keywords": "privacy, risk_of_abuse, limited_trust_in_government, security_not_absolute, civil_liberties"
+    },
+    "Q198": {
+      "answer": "3",
+      "keywords": "privacy, government mistrust, security concerns, potential abuse, rule of law"
+    }
+  },
+  "Latin_America": {
+    "Q106": {
+      "answer": "3",
+      "keywords": "social justice, inequality concerns, public services, fair opportunity, progressive taxes"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "private enterprise, regulated markets, social programs, anti-monopoly, mixed economy"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social safety net, inequality, public services, shared responsibility, opportunity for all"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "motivates improvement, economic growth, innovation, needs regulation, avoid inequality"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "esfuerzo, oportunidades desiguales, meritocracia parcial, redes de apoyo, contexto econ\u00f3mico"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "long-term sustainability, climate vulnerability, health impacts, future generations, responsible development"
+    },
+    "Q164": {
+      "answer": "8",
+      "keywords": "faith, family traditions, moral guidance, cultural identity, personal hope"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "raised catholic, cultural tradition, personal faith, family influence, spiritual comfort"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "catholic upbringing, soul continues, family traditions, religious teachings, cultural belief"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "catholic upbringing,sin and consequence,family beliefs,afterlife justice,cultural tradition"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "raised catholic, afterlife hope, cultural tradition, moral guidance, spiritual comfort"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "evidence-based, critical thinking, secular view, scientific method, personal faith"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious_pluralism,respect_for_diversity,personal_belief,tolerance,coexistence"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "catholic background, cultural tradition, family influence, not very devout, attend on major feasts"
+    },
+    "Q172": {
+      "answer": "3",
+      "keywords": "raised catholic, personal faith, not very devout, pray in tough times, cultural tradition"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "cultural catholicism, family traditions, faith in god, spiritual identity, latin american upbringing"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "solidarity, compassion, community, justice, everyday-actions"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "daily guidance, community, justice, hope, cultural identity"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "many perspectives, changing society, cultural diversity, moral uncertainty, context dependent"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "dishonesty, corruption, unfairness, social trust, economic hardship"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "dishonest, harms public services, common due to low incomes, understandable but wrong, undermines trust"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "respect for others, social trust, rule of law, moral values, only extreme need"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "unfair to others, weak institutions, government mistrust, still dishonest, social responsibility"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, unfair advantage, distrust in institutions, harms society, sometimes systemic pressure"
+    },
+    "Q182": {
+      "answer": "7",
+      "keywords": "personal freedom, respect, changing norms, non-harmful, human rights"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "moral concerns, exploitation risk, economic desperation, social stigma, limited acceptance"
+    },
+    "Q184": {
+      "answer": "4",
+      "keywords": "depends on circumstances,health risks,rape cases,moral conflict,legal restrictions"
+    },
+    "Q185": {
+      "answer": "7",
+      "keywords": "personal happiness, toxic relationships, children\u2019s wellbeing, cultural acceptance, second chances"
+    },
+    "Q186": {
+      "answer": "8",
+      "keywords": "personal choice, mutual consent, modern values, emotional readiness, cultural flexibility"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "value of life, religious beliefs, family impact, mental health support, extreme suffering"
+    },
+    "Q188": {
+      "answer": "4",
+      "keywords": "respect for life, religious influence, compassion for suffering, fear of abuse, family-centered decisions"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "violence, human rights, respect, equality, unacceptable"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "harmful, trauma, nonviolent-discipline, cultural-shift, children-rights"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "respect for life, rule of law, trauma from violence, only self-defense, seek peaceful solutions"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "violence against civilians, human rights, rule of law, democracy, moral unacceptability"
+    },
+    "Q193": {
+      "answer": "6",
+      "keywords": "personal freedom, mutual consent, cultural taboos, emotional impact, responsible behavior"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "democracy,rule of law,human rights,peaceful protest,extreme last resort"
+    },
+    "Q195": {
+      "answer": "3",
+      "keywords": "respect for life, risk of injustice, state abuse concerns, preference for rehabilitation, moral reservations"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "seguridad p\u00fablica, prevenci\u00f3n del delito, espacios p\u00fablicos, abuso de poder, regulaci\u00f3n estricta"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, human rights, history of abuse, government overreach, democracy"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy,history of abuse,authoritarianism,corruption,civil liberties"
+    }
+  },
+  "West_and_South_Asia": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "basic needs, social safety net, merit-based rewards, reduce extreme inequality, inclusive growth"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "mixed economy, private sector growth, government regulation, social welfare, emerging markets"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social safety net, poverty reduction, public healthcare, personal effort, balanced responsibility"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "drives improvement, motivates hard work, fair rules needed, avoid extreme pressure, balance with cooperation"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "hard work, education, family support, opportunities, some luck"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "long-term sustainability, climate vulnerability, public health, responsible development, future generations"
+    },
+    "Q164": {
+      "answer": "8",
+      "keywords": "spiritual upbringing, family traditions, cultural festivals, moral guidance, personal faith"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "cultural upbringing, personal faith, family traditions, spiritual comfort, religious practices"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "reincarnation, karma, spiritual beliefs, cultural tradition, soul journey"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "karma, moral consequences, religious upbringing, fear of punishment, spiritual justice"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "spiritual upbringing, karma, afterlife hope, cultural traditions, moral framework"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "evidence-based, pluralistic society, scientific method, reinterpretation of faith, critical thinking"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious_pluralism, respect_diversity, coexistence, personal_faith, tolerance"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "major festivals, family expectations, cultural tradition, Hindu background, occasional temple visits"
+    },
+    "Q172": {
+      "answer": "3",
+      "keywords": "raised religious, busy lifestyle, personal faith, occasional temple visits, cultural tradition"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "spiritual, cultural traditions, family influence, religious festivals, personal faith"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, service, karma, community, moral-duty"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "daily guidance, moral framework, community, coping with hardship, purposeful living"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "changing norms, cultural diversity, generational differences, conflicting values, social media influence"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "dishonesty, corruption, unfair advantage, harms taxpayers, undermines trust"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "dishonest, harms public services, financial pressure, rare exceptions, generally wrong"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "harms others, against law, religious values, only extreme need, social trust"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "unethical, harms society, civic duty, religious values, undermines trust"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, abuse of power, unfair advantage, undermines trust, harms society"
+    },
+    "Q182": {
+      "answer": "4",
+      "keywords": "traditional values, social stigma, personal freedom, generational divide, gradual acceptance"
+    },
+    "Q183": {
+      "answer": "4",
+      "keywords": "economic necessity, moral concerns, exploitation risk, personal freedom, social stigma"
+    },
+    "Q184": {
+      "answer": "6",
+      "keywords": "depends on circumstances,women\u2019s health,early pregnancy,rape or incest,social stigma"
+    },
+    "Q185": {
+      "answer": "7",
+      "keywords": "personal happiness, incompatibility, children\u2019s wellbeing, social stigma, last resort"
+    },
+    "Q186": {
+      "answer": "7",
+      "keywords": "personal choice, mutual consent, changing norms, adult responsibility, cultural flexibility"
+    },
+    "Q187": {
+      "answer": "3",
+      "keywords": "mental health, religious beliefs, family impact, social stigma, seek help"
+    },
+    "Q188": {
+      "answer": "4",
+      "keywords": "respect for life, religious beliefs, reduce suffering, strict safeguards, moral dilemma"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "violence unacceptable, respect in marriage, human rights, legal consequences, cultural disapproval"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "harmful, alternative discipline, respect, emotional impact, cultural shift"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "self-defense only, respect for life, legal consequences, social harmony, moral restraint"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "innocent lives, moral wrong, rule of law, social harmony, peaceful dialogue"
+    },
+    "Q193": {
+      "answer": "4",
+      "keywords": "depends on consent, cultural values, emotional impact, relationship expectations, personal responsibility"
+    },
+    "Q194": {
+      "answer": "3",
+      "keywords": "democracy, rule_of_law, social_stability, last_resort, civilian_harm"
+    },
+    "Q195": {
+      "answer": "4",
+      "keywords": "deterrence doubts, risk of wrongful execution, human rights concerns, uneven legal systems, prefer life imprisonment"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, crime prevention, terrorism, privacy concerns, government accountability"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, civil liberties, government overreach, misuse risk, democratic values"
+    },
+    "Q198": {
+      "answer": "3",
+      "keywords": "privacy, misuse risk, limited trust, security balance, transparency"
+    }
+  },
+  "Confucian": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "social stability,equal opportunity,merit-based rewards,moderate inequality,collective harmony"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "market efficiency, state guidance, social stability, mixed economy, gradual reform"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social stability, basic safety net, family responsibility, gradual reform, respect for authority"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "motivation, self-improvement, social harmony, fair rules, balanced competition"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "diligence, perseverance, education, opportunity, social_networks"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "long-term thinking,sustainable development,health impacts,intergenerational responsibility,quality of life"
+    },
+    "Q164": {
+      "answer": "3",
+      "keywords": "secular upbringing, Confucian values, focus on family, moral tradition, limited religious practice"
+    },
+    "Q165": {
+      "answer": "2",
+      "keywords": "non-theistic upbringing, Confucian values, focus on ancestors, practical morality, cultural tradition"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "ancestral spirits, rebirth, continuity of soul, traditional beliefs, moral influence"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "moral retribution, ancestral teachings, spiritual realm, karmic consequence, social harmony"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "ancestral beliefs, moral order, spiritual realm, cultural tradition, life after death"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "science,evidence-based,modern society,personal belief,pragmatism"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious pluralism, Confucian tolerance, harmony, respect for diversity, coexistence"
+    },
+    "Q171": {
+      "answer": "6",
+      "keywords": "busy lifestyle, secular society, personal spirituality, family traditions, occasional temple visits"
+    },
+    "Q172": {
+      "answer": "7",
+      "keywords": "secular upbringing, cultural not religious, occasional reflection, family traditions, respect for ancestors"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "focus on ethics, cultural traditions over faith, respect for religions, pragmatic worldview, not strictly atheist"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "harmony, compassion, social responsibility, moral conduct, community"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "harmony in society, moral guidance, daily conduct, family obligations, social order"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "complex society, conflicting values, changing norms, tradition vs modernity, moral uncertainty"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "dishonesty, social trust, unfair advantage, legal violation, collective harm"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "social order, rule of law, shame, collective responsibility, personal integrity"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "harms social trust, violates moral duty, disrupts harmony, respect for others\u2019 property, only rare extreme necessity"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "social trust, rule of law, collective responsibility, moral duty, social harmony"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, betraying public trust, unfair advantage, undermines harmony, damages social order"
+    },
+    "Q182": {
+      "answer": "4",
+      "keywords": "traditional values, social harmony, family expectations, increasing tolerance, generational divide"
+    },
+    "Q183": {
+      "answer": "2",
+      "keywords": "social harmony, family reputation, moral norms, exploitation concerns, legal restrictions"
+    },
+    "Q184": {
+      "answer": "5",
+      "keywords": "depends on circumstances, health of mother, early pregnancy, social responsibility, moral complexity"
+    },
+    "Q185": {
+      "answer": "6",
+      "keywords": "individual happiness, family harmony, last resort, children\u2019s wellbeing, social stigma"
+    },
+    "Q186": {
+      "answer": "5",
+      "keywords": "depends on commitment, generational differences, traditional values, personal responsibility, mutual respect"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "family responsibility, social harmony, moral duty, respect for life, stigma"
+    },
+    "Q188": {
+      "answer": "4",
+      "keywords": "respect for life, family responsibility, filial piety, fear of abuse, limited acceptance"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "violence unacceptable, respect in family, legal protection, moral responsibility, social harmony"
+    },
+    "Q190": {
+      "answer": "3",
+      "keywords": "harmful, discipline alternatives, emotional impact, cultural change, respect"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "social harmony, rule of law, moral restraint, self-defense exception, last resort"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "social harmony, respect for life, rule of law, collective stability, moral responsibility"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "undermines commitment, conflicts with tradition, risks reputation, emotional consequences, weakens family values"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "social harmony, rule of law, respect for authority, last resort, moral restraint"
+    },
+    "Q195": {
+      "answer": "6",
+      "keywords": "serious crimes, social order, deterrence, respect for law, conditional support"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "public safety, crime prevention, social order, limited privacy concerns, regulated use"
+    },
+    "Q197": {
+      "answer": "3",
+      "keywords": "privacy, limited_government_power, security_concerns, potential_abuse, social_trust"
+    },
+    "Q198": {
+      "answer": "2",
+      "keywords": "national security, social stability, collective good, conditional trust, privacy concerns"
+    }
+  },
+  "Catholic_Europe": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "social safety net, fair wages, progressive taxation, opportunity for all, limit extreme inequality"
+    },
+    "Q107": {
+      "answer": "3",
+      "keywords": "social market economy, private enterprise, state regulation, EU norms, welfare safeguards"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social safety net, solidarity, progressive taxation, personal effort, welfare state"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "innovation, personal responsibility, fair rules, social safety net, avoid extreme inequality"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "effort matters, education focus, personal responsibility, some luck involved, social mobility"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "long-term future, climate change, EU norms, sustainable growth, moral responsibility"
+    },
+    "Q164": {
+      "answer": "7",
+      "keywords": "cultural tradition, moral guidance, family influence, not very religious, occasional practice"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "catholic upbringing, cultural tradition, personal faith, spiritual experience, family influence"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Catholic upbringing, heaven and hell, soul continues, religious tradition, spiritual hope"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "catholic upbringing, church teaching, divine justice, moral responsibility, afterlife"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "Catholic upbringing, afterlife hope, church teaching, spiritual belief, cultural tradition"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "respect for science, Catholic tradition, faith and reason compatible, not always literal, context matters"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious_pluralism, respect_for_others, secular_society, freedom_of_conscience, tolerance"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "catholic background, cultural tradition, not very devout, attend on major feasts, family expectations"
+    },
+    "Q172": {
+      "answer": "3",
+      "keywords": "catholic upbringing, personal faith, not strictly observant, cultural tradition, occasional private prayer"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "culturally catholic, secular society, personal spirituality, skeptical of institutions, non-practicing"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, helping others, moral responsibility, everyday kindness, community solidarity"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "daily guidance,morality,community,tradition,hope"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "many perspectives, secularization, church influence fading, moral ambiguity, case-by-case decisions"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "dishonesty, social trust, unfairness, legal consequences, moral duty"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "dishonesty, social trust, rule of law, unfair advantage, moral responsibility"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "respect for property, moral teaching, social trust, legal consequences, rare extreme necessity"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "social responsibility, rule of law, fairness, Catholic ethics, civic duty"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, abuse of power, undermines trust, unethical, rare exceptions"
+    },
+    "Q182": {
+      "answer": "4",
+      "keywords": "traditional values, Catholic teaching, personal freedom, social tolerance, moral reservations"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "exploitation concerns, moral teaching, social stigma, economic desperation, limited tolerance"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "protection of unborn life, moral teaching of Church, allowed in grave cases, respect for mother\u2019s health, serious ethical concern"
+    },
+    "Q185": {
+      "answer": "5",
+      "keywords": "serious marital breakdown, protection of children, last resort, Catholic teaching, human dignity"
+    },
+    "Q186": {
+      "answer": "6",
+      "keywords": "personal choice, love and commitment, changing norms, moral reflection, responsibility"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "sanctity of life, Catholic teaching, moral gravity, compassion for suffering, rare extreme cases"
+    },
+    "Q188": {
+      "answer": "2",
+      "keywords": "sanctity of life,suffering,compassion,palliative care,moral concerns"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "morally wrong, human dignity, domestic violence, equality, legal prohibition"
+    },
+    "Q190": {
+      "answer": "1",
+      "keywords": "child protection, psychological harm, Catholic values, non-violent discipline, human dignity"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "human dignity, moral teaching, self-defense exception, rule of law, last resort"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "innocent lives, moral teaching, rule of law, dialogue preferred, disproportionate violence"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "commitment valued, religious morals, emotional consequences, social expectations, personal responsibility"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "democracy, rule_of_law, human_life_sacred, last_resort_only, historical_trauma"
+    },
+    "Q195": {
+      "answer": "2",
+      "keywords": "sanctity of life, risk of error, human dignity, possibility of repentance, Catholic teaching"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, crime_prevention, proportionality, privacy_concerns, regulation"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, democracy, abuse of power, rule of law, civil liberties"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, history of surveillance, distrust of state power, civil liberties, democratic values"
+    }
+  },
+  "Protestant_Europe": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "social safety net, merit-based rewards, progressive taxation, equal opportunities, middle-class stability"
+    },
+    "Q107": {
+      "answer": "3",
+      "keywords": "social market economy, private enterprise, regulated capitalism, competition, welfare state"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social safety net, personal responsibility, progressive taxation, welfare state, equal opportunities"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "innovation, efficiency, motivation, regulation, social-safety-net"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "meritocracy, personal responsibility, social mobility, structural barriers, welfare state"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "long-term sustainability, climate responsibility, green innovation, quality of life, precautionary principle"
+    },
+    "Q164": {
+      "answer": "4",
+      "keywords": "secular upbringing, cultural christianity, personal ethics, scientific worldview, occasional reflection"
+    },
+    "Q165": {
+      "answer": "2",
+      "keywords": "secular upbringing, scientific worldview, religious pluralism, personal autonomy, cultural Christianity"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "christian upbringing, hope in resurrection, cultural tradition, personal faith, comfort in mortality"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "secular upbringing, metaphorical interpretation, focus on grace, moral responsibility, cultural Christianity"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "christian upbringing, hope after death, moral framework, cultural tradition, comfort"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "evidence-based worldview, secular society, scientific method, critical thinking, religious pluralism"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious pluralism, tolerance, freedom of belief, secular society, respect for diversity"
+    },
+    "Q171": {
+      "answer": "6",
+      "keywords": "secular upbringing,cultural not religious,busy lifestyle,personal spirituality,rare church attendance"
+    },
+    "Q172": {
+      "answer": "7",
+      "keywords": "secular upbringing, cultural Protestant, personal reflection not prayer, religion private, low religious practice"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "culturally christian, secular society, rational worldview, personal ethics, low church attendance"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "personal responsibility, ethics, helping others, social justice, lived faith"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "ethics, daily life, responsibility, community, personal growth"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "pluralism, moral_relativism, secularization, individual_judgment, ethical_uncertainty"
+    },
+    "Q177": {
+      "answer": "1",
+      "keywords": "dishonesty, social trust, fairness, rule of law, solidarity"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "dishonesty, social trust, rule of law, fairness, personal responsibility"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "respect for law, property rights, social trust, moral responsibility, rare extreme necessity"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "social trust, rule of law, fairness, public services, civic duty"
+    },
+    "Q181": {
+      "answer": "1",
+      "keywords": "corruption, unfair advantage, undermines trust, illegal, unethical"
+    },
+    "Q182": {
+      "answer": "9",
+      "keywords": "personal freedom, equality, consent, human rights, social acceptance"
+    },
+    "Q183": {
+      "answer": "4",
+      "keywords": "personal freedom, exploitation concerns, regulation, social stigma, moral ambiguity"
+    },
+    "Q184": {
+      "answer": "6",
+      "keywords": "personal autonomy, early pregnancy, health risks, moral ambiguity, case-by-case"
+    },
+    "Q185": {
+      "answer": "7",
+      "keywords": "personal freedom, irreconcilable differences, individual happiness, secular values, social acceptance"
+    },
+    "Q186": {
+      "answer": "8",
+      "keywords": "personal freedom, mutual consent, modern values, relationship testing, reduced stigma"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "sanctity of life, mental health, extreme suffering, last resort, moral concern"
+    },
+    "Q188": {
+      "answer": "7",
+      "keywords": "autonomy, dignity, terminal illness, regulated, compassion"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "violence, human rights, equality, respect, rule of law"
+    },
+    "Q190": {
+      "answer": "1",
+      "keywords": "child protection, physical harm, psychological impact, modern parenting, legal prohibition"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "rule of law, human rights, self-defense exception, moral restraint, last resort"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "violates human rights, harms innocents, undermines democracy, erodes trust, morally unacceptable"
+    },
+    "Q193": {
+      "answer": "6",
+      "keywords": "personal freedom, mutual consent, responsibility, emotional maturity, cultural norms"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "rule of law, democracy, last resort, self-defense, human rights"
+    },
+    "Q195": {
+      "answer": "3",
+      "keywords": "human rights, risk of error, rehabilitation, rule of law, moral concerns"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, crime prevention, privacy concerns, proportionality, regulation"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, civil liberties, surveillance overreach, democratic values, trust in institutions"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, civil liberties, historical abuses, rule of law, government transparency"
+    }
+  },
+  "English-speaking": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "fairness, social mobility, safety net, progressive taxation, opportunity"
+    },
+    "Q107": {
+      "answer": "3",
+      "keywords": "free market, private enterprise, limited regulation, innovation, individual opportunity"
+    },
+    "Q108": {
+      "answer": "5",
+      "keywords": "mixed responsibility, social safety net, personal initiative, limited government, shared burden"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "innovation, meritocracy, motivation, inequality, stress"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "effort matters, opportunities unequal, systemic barriers, some luck involved, connections help"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "long-term sustainability, climate change, public health, future generations, green jobs"
+    },
+    "Q164": {
+      "answer": "3",
+      "keywords": "secular, cultural traditions, moral framework from society, skeptical of religion, personal autonomy"
+    },
+    "Q165": {
+      "answer": "2",
+      "keywords": "secular upbringing, scientific worldview, lack of evidence, cultural Christianity, personal skepticism"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "spiritual, possibility, comfort, unknown, hope"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "secular upbringing, lack of evidence, metaphorical interpretation, moral responsibility, focus on present"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "afterlife, comfort, moral order, spiritual upbringing, hope"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "evidence-based, scientific-method, fallibility-of-religious-texts, empirical-testing, separation-of-domains"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious pluralism, tolerance, freedom of belief, diversity, coexistence"
+    },
+    "Q171": {
+      "answer": "6",
+      "keywords": "busy lifestyle, personal spirituality, not religious, cultural christian background, occasional family events"
+    },
+    "Q172": {
+      "answer": "8",
+      "keywords": "nonreligious upbringing, secular environment, no prayer habit, cultural not spiritual, personal reflection instead"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "spiritual, skeptical, secular upbringing, science-oriented, non-practicing"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, ethics, helping others, kindness, moral duty"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "purpose, morality, community, guidance, everyday-life"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "complex society,moral pluralism,conflicting values,information overload,context dependent"
+    },
+    "Q177": {
+      "answer": "1",
+      "keywords": "fraud, unfairness, harms taxpayers, undermines trust, illegal"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "dishonest, unfair to others, undermines system, minor offense, financial pressure"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "violates rights, harms trust, legal consequences, moral wrong, rare extreme exceptions"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "unethical, harms society, undermines trust, illegal, personal integrity"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, abuse of trust, unfair advantage, undermines institutions, ethical breach"
+    },
+    "Q182": {
+      "answer": "9",
+      "keywords": "personal freedom, consent, equality, human rights, social acceptance"
+    },
+    "Q183": {
+      "answer": "4",
+      "keywords": "exploitation risks, adult autonomy, consent, regulation, social stigma"
+    },
+    "Q184": {
+      "answer": "7",
+      "keywords": "bodily autonomy, health considerations, personal circumstances, early pregnancy, moral complexity"
+    },
+    "Q185": {
+      "answer": "8",
+      "keywords": "personal happiness, unhealthy relationships, autonomy, changing circumstances, well-being"
+    },
+    "Q186": {
+      "answer": "9",
+      "keywords": "consensual, personal freedom, common practice, relationship building, moral autonomy"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "mental illness, moral concern, preventable suffering, value of life, need for support"
+    },
+    "Q188": {
+      "answer": "7",
+      "keywords": "autonomy, terminal illness, dignity, suffering relief, safeguards"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "domestic violence, never acceptable, human rights, abuse, equality"
+    },
+    "Q190": {
+      "answer": "1",
+      "keywords": "child abuse, psychological harm, physical injury, nonviolent discipline, human rights"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "self-defense, last-resort, rule-of-law, human-rights, proportionality"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "violence against civilians, moral unacceptability, rule of law, human rights, democratic alternatives"
+    },
+    "Q193": {
+      "answer": "7",
+      "keywords": "consent, personal freedom, safety, mutual respect, nonjudgment"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "democracy, rule_of_law, last_resort, self_defense, human_rights"
+    },
+    "Q195": {
+      "answer": "3",
+      "keywords": "risk of executing innocents, moral opposition, unequal application, rehabilitation preference, human rights concerns"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "crime prevention, public safety, privacy concerns, oversight needed, limited use"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, civil liberties, government overreach, free speech, surveillance risks"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, civil liberties, government overreach, consent, surveillance"
+    }
+  }
+}

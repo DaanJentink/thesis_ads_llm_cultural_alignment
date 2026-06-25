@@ -1,0 +1,1330 @@
+{
+  "Orthodox_Europe": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "fairness, stability, opportunity, corruption, community"
+    },
+    "Q107": {
+      "answer": "6",
+      "keywords": "stability, social-justice, strategic-industries, national-interest, balance"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "community, tradition, security, solidarity, welfare"
+    },
+    "Q109": {
+      "answer": "6",
+      "keywords": "exploitation, inequality, stress, solidarity, balance"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "tradition, perseverance, connections, reality, faith"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "stewardship, nature, future generations, health, responsibility"
+    },
+    "Q164": {
+      "answer": "10",
+      "keywords": "faith, tradition, salvation, church, spirituality"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, tradition, spirituality, church, heritage"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Orthodox faith, soul immortality, resurrection, eternal life, tradition"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Orthodox teaching, divine justice, eternal consequence, scripture, soul judgment"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "Orthodox faith, eternal life, salvation, God's mercy, resurrection"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "science, faith, coexistence, truth, reason"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "tradition, respect, tolerance, faith, diversity"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "tradition, orthodox holidays, cultural identity, spiritual connection, family customs"
+    },
+    "Q172": {
+      "answer": "2",
+      "keywords": "Orthodox tradition, morning prayers, evening prayers, spiritual discipline, daily connection"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "tradition, orthodox, faith, identity, spirituality"
+    },
+    "Q174": {
+      "answer": "1",
+      "keywords": "tradition, salvation, obedience, sacraments, heritage"
+    },
+    "Q175": {
+      "answer": "1",
+      "keywords": "salvation, eternity, soul, afterlife, Orthodox"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "moral confusion, traditional values, secular influence, relativism, spiritual guidance"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "dishonesty, corruption, moral-wrong, community-harm, conscience"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "dishonesty, sin, community, fairness, conscience"
+    },
+    "Q179": {
+      "answer": "3",
+      "keywords": "sin, necessity, poverty, conscience, commandments"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "illegal, dishonest, civic-duty, conscience, unfair"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, sin, injustice, harm, dishonesty"
+    },
+    "Q182": {
+      "answer": "3",
+      "keywords": "tradition, family, religion, nature, values"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "immorality, sin, exploitation, dignity, tradition"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "sanctity, life, tradition, circumstances, tragedy"
+    },
+    "Q185": {
+      "answer": "5",
+      "keywords": "regrettable, sometimes necessary, family preservation, forgiveness, circumstances"
+    },
+    "Q186": {
+      "answer": "4",
+      "keywords": "tradition, morality, family values, religion, consequences"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "sin, suffering, family, faith, despair"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "sanctity of life, Orthodox teachings, God's will, suffering meaning, traditional values"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "sin, violence, family, protection, dignity"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline, tradition, harmful, unacceptable, education"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "sin, protection, last resort, conscience, peace"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "innocent lives, immoral, against faith, suffering, unacceptable"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "tradition, morality, family-values, spirituality, commitment"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "stability, suffering, tradition, peace, order"
+    },
+    "Q195": {
+      "answer": "6",
+      "keywords": "justice, retribution, deterrence, biblical tradition, serious crimes"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, safety, terrorism, balance, order"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, freedom, distrust, surveillance, rights"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, freedom, distrust, surveillance, rights"
+    }
+  },
+  "African-Islamic": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "fairness, justice, poverty, community, balance"
+    },
+    "Q107": {
+      "answer": "7",
+      "keywords": "justice, public-welfare, regulation, equity, development"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "family, community, justice, compassion, responsibility"
+    },
+    "Q109": {
+      "answer": "6",
+      "keywords": "cooperation, community, fairness, exploitation, balance"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "faith, effort, destiny, patience, blessing"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "stewardship, future generations, divine trust, sustainability, responsibility"
+    },
+    "Q164": {
+      "answer": "10",
+      "keywords": "faith, guidance, blessing, purpose, devotion"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, Allah, Islam, prayer, devotion"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Quran, judgment, paradise, soul, eternal"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Quran, afterlife, judgment, faith, accountability"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, afterlife, paradise, Quran, soul"
+    },
+    "Q169": {
+      "answer": "2",
+      "keywords": "faith, divine_truth, spiritual_guidance, interpretation, harmony"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "respect, diversity, coexistence, tolerance, faith"
+    },
+    "Q171": {
+      "answer": "2",
+      "keywords": "Friday prayers, community, faith, tradition, blessing"
+    },
+    "Q172": {
+      "answer": "1",
+      "keywords": "Salah, devotion, faith, discipline, blessing"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "faith, prayer, identity, tradition, guidance"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, community, faith, kindness, values"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "guidance, morality, purpose, community, daily life"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "confusion, secular-influence, traditional-values, religious-guidance, changing-world"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "Haram, dishonesty, trust, community, integrity"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "dishonesty, haram, community, trust, fairness"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "Haram, dishonesty, property rights, community trust, divine punishment"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "haram, dishonesty, community, obligation, trust"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "haram, corruption, dishonesty, trust, ethics"
+    },
+    "Q182": {
+      "answer": "2",
+      "keywords": "religious teachings, family values, cultural traditions, natural order, social norms"
+    },
+    "Q183": {
+      "answer": "2",
+      "keywords": "haram, dignity, family, morality, exploitation"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "religion, sanctity, circumstances, health, morality"
+    },
+    "Q185": {
+      "answer": "6",
+      "keywords": "family, circumstances, religion, children, wellbeing"
+    },
+    "Q186": {
+      "answer": "3",
+      "keywords": "religious teachings, family honor, social stigma, traditional values, moral principles"
+    },
+    "Q187": {
+      "answer": "1",
+      "keywords": "haram, sanctity, religious prohibition, family honor, divine will"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "sanctity, divine-will, suffering, patience, destiny"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "Haram, dignity, respect, compassion, protection"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline, harmful, religious, guidance, protection"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "Islam, peace, sanctity, life, forbidden"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "forbidden, innocent, haram, peace, justice"
+    },
+    "Q193": {
+      "answer": "2",
+      "keywords": "religion, honor, family, tradition, morality"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "Islam, peace, instability, innocent, last resort"
+    },
+    "Q195": {
+      "answer": "6",
+      "keywords": "justice, deterrence, Islamic law, retribution, circumstances"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, safety, prevention, balance, trust"
+    },
+    "Q197": {
+      "answer": "3",
+      "keywords": "privacy, trust, surveillance, freedom, boundaries"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, trust, rights, surveillance, consent"
+    }
+  },
+  "Latin_America": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "equality, opportunity, fairness, poverty, justice"
+    },
+    "Q107": {
+      "answer": "6",
+      "keywords": "inequality, regulation, public services, workers rights, balance"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "community, solidarity, opportunity, support, fairness"
+    },
+    "Q109": {
+      "answer": "3",
+      "keywords": "motivation, progress, opportunity, effort, improvement"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "esfuerzo, m\u00e9rito, progreso, familia, oportunidades"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "future generations, natural resources, sustainability, pollution, responsibility"
+    },
+    "Q164": {
+      "answer": "10",
+      "keywords": "faith, family, blessings, church, guidance"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, family, tradition, spirituality, culture"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "faith, Catholicism, soul, eternal life, spirituality"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Catholic upbringing, divine justice, afterlife belief, moral accountability, spiritual tradition"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, Catholic, soul, afterlife, God"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "scientific method, evidence, progress, critical thinking, personal faith"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "respect, tolerance, diversity, freedom, faith"
+    },
+    "Q171": {
+      "answer": "2",
+      "keywords": "Catholic tradition, Sunday mass, family values, spiritual connection, community gathering"
+    },
+    "Q172": {
+      "answer": "2",
+      "keywords": "faith, gratitude, guidance, morning, evening"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "faith, Catholic, family, traditions, God"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, service, solidarity, faith-in-action, community"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "daily guidance, family values, community support, moral compass, suffering explanation"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "traditional values, family guidance, religious teachings, changing society, moral confusion"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "dishonesty, unfair, corruption, harmful, illegal"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "dishonesty, unfairness, community, honesty, consequences"
+    },
+    "Q179": {
+      "answer": "3",
+      "keywords": "desperation, necessity, morality, circumstances, survival"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "illegal, unfair, dishonest, community harm, civic duty"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, dishonesty, injustice, poverty, trust"
+    },
+    "Q182": {
+      "answer": "7",
+      "keywords": "respect, love, equality, personal-freedom, acceptance"
+    },
+    "Q183": {
+      "answer": "4",
+      "keywords": "survival, necessity, exploitation, morality, poverty"
+    },
+    "Q184": {
+      "answer": "4",
+      "keywords": "religion, circumstances, health, personal-choice, complex"
+    },
+    "Q185": {
+      "answer": "7",
+      "keywords": "personal choice, individual happiness, modern values, unavoidable situations, family wellbeing"
+    },
+    "Q186": {
+      "answer": "7",
+      "keywords": "personal freedom, modern values, individual choice, love, autonomy"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "vida, familia, fe, dolor, apoyo"
+    },
+    "Q188": {
+      "answer": "6",
+      "keywords": "dignity, suffering, compassion, personal choice, God's will"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "violencia, inaceptable, respeto, familia, derechos"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline, culture, harmful, education, respect"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "dignity, peace, respect, life, values"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "innocent lives, violence, unjustifiable, peace, humanity"
+    },
+    "Q193": {
+      "answer": "5",
+      "keywords": "personal choice, cultural values, family expectations, respect, individual decision"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "democracia, paz, di\u00e1logo, inocentes, rechazo"
+    },
+    "Q195": {
+      "answer": "3",
+      "keywords": "human dignity, rehabilitation, irreversible errors, sanctity of life, social justice"
+    },
+    "Q196": {
+      "answer": "3",
+      "keywords": "privacy concerns, government overreach, corruption risks, personal freedom, distrust"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, distrust, corruption, freedom, surveillance"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, distrust, corruption, authoritarianism, rights"
+    }
+  },
+  "West_and_South_Asia": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "harmony, fairness, opportunity, community, balance"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "balance, stability, private-sector, government-regulation, mixed-economy"
+    },
+    "Q108": {
+      "answer": "5",
+      "keywords": "family support, community harmony, government assistance, self-reliance, balanced approach"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "motivation, progress, balance, harmony, stress"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "hard work, responsibility, family sacrifice, moral duty, perseverance"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "sustainability, future generations, natural disasters, health, responsibility"
+    },
+    "Q164": {
+      "answer": "10",
+      "keywords": "faith, blessings, spirituality, guidance, devotion"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, spirituality, blessings, karma, tradition"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "karma, reincarnation, ancestors, spirituality, soul"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "karma, afterlife, moral-accountability, spiritual-consequences, religious-upbringing"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "karma, rebirth, spiritual, afterlife, peace"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "practical, science, harmony, coexistence, modern"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "pluralism, tolerance, diversity, harmony, respect"
+    },
+    "Q171": {
+      "answer": "2",
+      "keywords": "temple, community, blessings, tradition, family"
+    },
+    "Q172": {
+      "answer": "1",
+      "keywords": "faith, devotion, blessings, gratitude, tradition"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "spirituality, traditions, family-values, cultural-identity, faith"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "Karma, compassion, dharma, community, morality"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "daily guidance, moral values, family harmony, community bonds, practical wisdom"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "traditional values, generational gap, western influence, religious guidance, changing society"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "dishonesty, unfair, community, karma, integrity"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "dishonesty, fairness, public service, shame, community"
+    },
+    "Q179": {
+      "answer": "3",
+      "keywords": "survival, poverty, desperation, circumstances, morality"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "illegal, dishonest, social responsibility, moral values, community welfare"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, dishonesty, trust, integrity, harmful"
+    },
+    "Q182": {
+      "answer": "5",
+      "keywords": "tradition, religion, tolerance, family, changing"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "exploitation, dignity, family-values, social-harm, vulnerability"
+    },
+    "Q184": {
+      "answer": "4",
+      "keywords": "circumstances matter, family planning, health risks, religious values, social consequences"
+    },
+    "Q185": {
+      "answer": "6",
+      "keywords": "family harmony, personal happiness, circumstances matter, social acceptance, children's welfare"
+    },
+    "Q186": {
+      "answer": "4",
+      "keywords": "tradition, family honor, religion, changing attitudes, personal choice"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "family, suffering, karma, duty, shame"
+    },
+    "Q188": {
+      "answer": "4",
+      "keywords": "sanctity of life, religious teachings, family duty, suffering, karma"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "family, respect, violence, harmony, wrong"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline, tradition, harmful, unacceptable, violence"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "harmony, respect, karma, compassion, community"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "innocent lives, against teachings, peace, harmony, unjustifiable"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "traditional values, family honor, social stigma, cultural expectations, moral responsibility"
+    },
+    "Q194": {
+      "answer": "1",
+      "keywords": "stability, harmony, innocent lives, lawlessness, suffering"
+    },
+    "Q195": {
+      "answer": "6",
+      "keywords": "deterrence, justice, safety, retribution, proportionality"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "safety, security, deterrence, privacy, balance"
+    },
+    "Q197": {
+      "answer": "3",
+      "keywords": "privacy concerns, government overreach, personal freedom, limited trust, safety balance"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, consent, trust, freedom, rights"
+    }
+  },
+  "Confucian": {
+    "Q106": {
+      "answer": "5",
+      "keywords": "harmony, balance, fairness, opportunity, responsibility"
+    },
+    "Q107": {
+      "answer": "6",
+      "keywords": "stability, harmony, regulation, balance, public-welfare"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "social harmony, government guidance, collective welfare, moral responsibility, stability"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "motivation, harmony, balance, progress, cooperation"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "diligence, merit, perseverance, responsibility, self-cultivation"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "harmony with nature, future generations, sustainable development, moral responsibility, balance"
+    },
+    "Q164": {
+      "answer": "3",
+      "keywords": "secular, ancestors, harmony, philosophy, family"
+    },
+    "Q165": {
+      "answer": "2",
+      "keywords": "secular, ancestors, Confucian, ethics, tradition"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "ancestors, spirits, tradition, filial piety, harmony"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "Confucianism, ancestors, morality, harmony, afterlife"
+    },
+    "Q168": {
+      "answer": "2",
+      "keywords": "Confucian focus, earthly life, ancestor veneration, ethical cultivation, heaven as principle"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "science, progress, practical, evidence, harmony"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "harmony, tolerance, diversity, coexistence, respect"
+    },
+    "Q171": {
+      "answer": "7",
+      "keywords": "ancestor worship, family rituals, secular society, Confucian values, private practice"
+    },
+    "Q172": {
+      "answer": "8",
+      "keywords": "Confucianism, secular, ancestors, meditation, philosophy"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "secular, rituals, tradition, ancestor-worship, pragmatic"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "benevolence, moral cultivation, harmony, virtue, righteousness"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "harmony, morality, family, society, present"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "moral confusion, rapid change, traditional values, competing influences, social media"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "Honesty, integrity, social-harmony, moral-duty, trust"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "Honesty, integrity, social-order, shame, responsibility"
+    },
+    "Q179": {
+      "answer": "1",
+      "keywords": "morality, harmony, shame, property, righteousness"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "Honesty, social harmony, civic duty, moral character, trust"
+    },
+    "Q181": {
+      "answer": "1",
+      "keywords": "corruption, integrity, trust, morality, duty"
+    },
+    "Q182": {
+      "answer": "5",
+      "keywords": "tradition, harmony, tolerance, family, changing attitudes"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "social harmony, moral degradation, family values, human dignity, exploitation"
+    },
+    "Q184": {
+      "answer": "4",
+      "keywords": "life preservation, family harmony, circumstances matter, moral complexity, social responsibility"
+    },
+    "Q185": {
+      "answer": "5",
+      "keywords": "family harmony, last resort, children's welfare, social stability, personal happiness"
+    },
+    "Q186": {
+      "answer": "4",
+      "keywords": "traditional values, family harmony, social expectations, changing attitudes, personal choice"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "filial piety, family honor, moral duty, life preservation, social responsibility"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "filial piety, sanctity of life, family responsibility, natural order, moral ambiguity"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "family harmony, moral virtue, domestic violence, social order, respect"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline, harmony, parental-authority, physical-harm, moral-education"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "harmony, benevolence, moral-virtue, social-order, respect"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "harmony, innocent lives, moral virtue, social order, righteousness"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "family reputation, social harmony, moral virtue, traditional values, commitment"
+    },
+    "Q194": {
+      "answer": "1",
+      "keywords": "harmony, stability, order, peace, benevolence"
+    },
+    "Q195": {
+      "answer": "6",
+      "keywords": "retribution, deterrence, social harmony, justice, proportionality"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "public safety, social order, collective security, crime prevention, responsible governance"
+    },
+    "Q197": {
+      "answer": "3",
+      "keywords": "privacy, trust, balance, harmony, responsibility"
+    },
+    "Q198": {
+      "answer": "3",
+      "keywords": "privacy, trust, consent, balance, accountability"
+    }
+  },
+  "Catholic_Europe": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "fairness, solidarity, social justice, opportunity, dignity"
+    },
+    "Q107": {
+      "answer": "6",
+      "keywords": "regulation, workers, balance, solidarity, stability"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "solidarity, Catholic social teaching, common good, family support, dignity"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "motivation, opportunity, fairness, solidarity, balance"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "effort, responsibility, family, faith, perseverance"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "creation, stewardship, future generations, responsibility, morality"
+    },
+    "Q164": {
+      "answer": "9",
+      "keywords": "faith, tradition, family, church, spirituality"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, tradition, Catholic, spirituality, heritage"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Catholic faith, soul immortality, resurrection, eternal life, Church teaching"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Catholic faith, eternal justice, soul's destiny, Church teaching, divine judgment"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "Catholic faith, eternal life, Jesus Christ, soul, afterlife"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "faith, reason, dialogue, truth, compatibility"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious tolerance, Catholic values, ecumenism, respect, freedom of conscience"
+    },
+    "Q171": {
+      "answer": "2",
+      "keywords": "Sunday Mass, Catholic tradition, community, faith, regular practice"
+    },
+    "Q172": {
+      "answer": "3",
+      "keywords": "Catholic tradition, personal faith, Sunday prayer, family upbringing, spiritual connection"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "Catholic heritage, family tradition, spiritual identity, cultural belonging, faith"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "charity, compassion, Catholic values, helping others, faith in action"
+    },
+    "Q175": {
+      "answer": "1",
+      "keywords": "salvation, eternity, soul, transcendence, afterlife"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "moral relativism, secularization, traditional values, confusion, Catholic teaching"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "honesty, sin, conscience, community, fairness"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "dishonesty, sin, community, rules, conscience"
+    },
+    "Q179": {
+      "answer": "3",
+      "keywords": "commandments, sin, necessity, poverty, conscience"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "honesty, sin, community, responsibility, fairness"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, sin, dishonesty, injustice, morality"
+    },
+    "Q182": {
+      "answer": "4",
+      "keywords": "Catholic teaching, natural law, family values, pastoral care, traditional marriage"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "dignity, exploitation, morality, vulnerability, sin"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "sanctity of life, Catholic teaching, protection of unborn, moral responsibility, family values"
+    },
+    "Q185": {
+      "answer": "4",
+      "keywords": "family stability, church teaching, last resort, children welfare, forgiveness"
+    },
+    "Q186": {
+      "answer": "4",
+      "keywords": "tradition, family, faith, morality, conscience"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "sanctity of life, Catholic teaching, sin, despair, community support"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "sanctity of life, Catholic teaching, suffering, natural death, divine will"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "sin, dignity, violence, family, respect"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline, tradition, harmful, dignity, unacceptable"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "dignity, commandments, sin, protection, last resort"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "human life, Catholic values, innocent victims, moral evil, dignity"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "Catholic values, family, tradition, morality, commitment"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "human dignity, democracy, Catholic values, peaceful dialogue, social stability"
+    },
+    "Q195": {
+      "answer": "3",
+      "keywords": "sanctity of life, Catholic teaching, rehabilitation, human dignity, forgiveness"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, safety, privacy, balance, prevention"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, freedom, distrust, surveillance, rights"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, distrust, history, freedom, rights"
+    }
+  },
+  "Protestant_Europe": {
+    "Q106": {
+      "answer": "6",
+      "keywords": "opportunity, incentive, fairness, responsibility, balance"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "social market economy, private enterprise, regulation, competition, balance"
+    },
+    "Q108": {
+      "answer": "7",
+      "keywords": "self-reliance, personal responsibility, limited government, individual initiative, work ethic"
+    },
+    "Q109": {
+      "answer": "3",
+      "keywords": "innovation, efficiency, personal responsibility, market economy, opportunity"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "personal responsibility, meritocracy, education, opportunity, persistence"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "sustainability, responsibility, long-term, nature, stewardship"
+    },
+    "Q164": {
+      "answer": "4",
+      "keywords": "personal faith, private matter, individualism, secular society, cultural tradition"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "personal faith, cultural heritage, Protestant tradition, individual relationship, spiritual meaning"
+    },
+    "Q166": {
+      "answer": "2",
+      "keywords": "Protestant, rational, biblical, skepticism, tradition"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "metaphorical, modern, justice, symbolic, interpretation"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, afterlife, hope, salvation, God"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "scientific method, rationality, evidence-based thinking, religious pluralism, critical inquiry"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "religious tolerance, pluralism, individual freedom, secular society, interfaith respect"
+    },
+    "Q171": {
+      "answer": "7",
+      "keywords": "secularization, personal faith, institutional decline, individualism, cultural Protestantism"
+    },
+    "Q172": {
+      "answer": "8",
+      "keywords": "secular, personal, private, reflection, individualism"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "secular, personal-belief, non-practicing, cultural-Christian, private-faith"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "faith, works, service, neighbor, conscience"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "personal faith, daily life, individual responsibility, worldly ethics, practical Christianity"
+    },
+    "Q176": {
+      "answer": "5",
+      "keywords": "secularization, individualism, pluralism, complexity, relativism"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "honesty, rule of law, fairness, integrity, responsibility"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "rules, fairness, community, honesty, responsibility"
+    },
+    "Q179": {
+      "answer": "3",
+      "keywords": "property rights, rule of law, dishonesty, social trust, moral responsibility"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "legality, fairness, community, responsibility, trust"
+    },
+    "Q181": {
+      "answer": "1",
+      "keywords": "integrity, corruption, trust, accountability, ethics"
+    },
+    "Q182": {
+      "answer": "8",
+      "keywords": "personal freedom, individual choice, tolerance, equality, privacy"
+    },
+    "Q183": {
+      "answer": "5",
+      "keywords": "personal choice, regulation, pragmatism, individual freedom, health standards"
+    },
+    "Q184": {
+      "answer": "7",
+      "keywords": "personal autonomy, difficult circumstances, individual choice, health reasons, practical necessity"
+    },
+    "Q185": {
+      "answer": "8",
+      "keywords": "personal autonomy, individual choice, pragmatic solution, responsibility, well-being"
+    },
+    "Q186": {
+      "answer": "8",
+      "keywords": "personal freedom, individual choice, modern values, practical experience, relationship compatibility"
+    },
+    "Q187": {
+      "answer": "3",
+      "keywords": "autonomy, tragedy, mental-health, prevention, dignity"
+    },
+    "Q188": {
+      "answer": "8",
+      "keywords": "self-determination, dignity, compassion, quality-of-life, personal-choice"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "violence, illegal, human rights, equality, unacceptable"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "harmful, illegal, ineffective, counterproductive, unacceptable"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "human dignity, rule of law, peaceful resolution, moral duty, civil society"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "violence, innocent victims, democracy, human rights, rule of law"
+    },
+    "Q193": {
+      "answer": "5",
+      "keywords": "personal choice, mutual consent, individual responsibility, autonomy, tolerance"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "democracy, dialogue, rule-of-law, counterproductive, extremism"
+    },
+    "Q195": {
+      "answer": "3",
+      "keywords": "human dignity, rehabilitation, irreversibility, state authority, justice"
+    },
+    "Q196": {
+      "answer": "3",
+      "keywords": "privacy, freedom, distrust, proportionality, civil liberties"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, civil liberties, surveillance, personal freedom, distrust"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, civil liberties, transparency, distrust, individual rights"
+    }
+  },
+  "English-speaking": {
+    "Q106": {
+      "answer": "6",
+      "keywords": "opportunity, incentive, fairness, mobility, balance"
+    },
+    "Q107": {
+      "answer": "3",
+      "keywords": "free market, entrepreneurship, limited government, private enterprise, competition"
+    },
+    "Q108": {
+      "answer": "7",
+      "keywords": "self-reliance, opportunity, safety-net, initiative, balance"
+    },
+    "Q109": {
+      "answer": "3",
+      "keywords": "innovation, motivation, efficiency, opportunity, balance"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "meritocracy, opportunity, effort, determination, fair-play"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "sustainability, future generations, climate change, long-term thinking, irreversibility"
+    },
+    "Q164": {
+      "answer": "4",
+      "keywords": "personal choice, secular society, individual spirituality, private matter, declining church attendance"
+    },
+    "Q165": {
+      "answer": "2",
+      "keywords": "secular, science, skepticism, personal-choice, declining-religion"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "faith, hope, soul, comfort, uncertainty"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "secular, metaphorical, personal-choice, modern, symbolic"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "Christian upbringing, hope, afterlife, spiritual, comfort"
+    },
+    "Q169": {
+      "answer": "4",
+      "keywords": "scientific method, evidence-based reasoning, secularism, empirical data, critical thinking"
+    },
+    "Q170": {
+      "answer": "4",
+      "keywords": "pluralism, tolerance, diversity, freedom, respect"
+    },
+    "Q171": {
+      "answer": "7",
+      "keywords": "secular, non-religious, Sunday mornings, personal choice, declining attendance"
+    },
+    "Q172": {
+      "answer": "8",
+      "keywords": "secular, private, personal, spirituality, non-religious"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "personal, private, spiritual, non-practicing, individual"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, morality, community, practical faith, kindness"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "practical guidance, daily life, moral framework, community values, personal meaning"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "moral relativism, conflicting values, social media, traditional decline, complexity"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "dishonest, unfair, taxpayers, illegal, unethical"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "theft, dishonesty, fairness, rules, minor"
+    },
+    "Q179": {
+      "answer": "3",
+      "keywords": "illegal, unethical, circumstances, survival, desperation"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "illegal, unfair, civic duty, public services, honesty"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "illegal, unethical, corruption, integrity, unfair"
+    },
+    "Q182": {
+      "answer": "9",
+      "keywords": "personal freedom, love, equality, human rights, acceptance"
+    },
+    "Q183": {
+      "answer": "4",
+      "keywords": "exploitation, safety, choice, regulation, morality"
+    },
+    "Q184": {
+      "answer": "7",
+      "keywords": "bodily autonomy, personal choice, health circumstances, individual rights, privacy"
+    },
+    "Q185": {
+      "answer": "8",
+      "keywords": "personal autonomy, individual happiness, realistic expectations, personal choice, modern values"
+    },
+    "Q186": {
+      "answer": "8",
+      "keywords": "personal choice, individual freedom, modern values, practical experience, compatibility"
+    },
+    "Q187": {
+      "answer": "3",
+      "keywords": "mental health, tragedy, intervention, despair, support"
+    },
+    "Q188": {
+      "answer": "6",
+      "keywords": "personal autonomy, suffering relief, individual choice, medical ethics, quality of life"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "abuse, violence, illegal, harmful, unacceptable"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "harmful, abusive, ineffective, traumatic, unacceptable"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "harmful, illegal, immoral, unacceptable, violation"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "innocent victims, morally wrong, counterproductive, democratic alternatives, violence rejection"
+    },
+    "Q193": {
+      "answer": "6",
+      "keywords": "personal choice, consent, autonomy, individualism, normal"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "democracy, peaceful, dialogue, stability, harmful"
+    },
+    "Q195": {
+      "answer": "4",
+      "keywords": "irreversibility, wrongful convictions, human rights, retribution, deterrence"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "public safety, crime prevention, privacy concerns, accountability, balanced approach"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy rights, government overreach, civil liberties, surveillance concerns, personal freedom"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy rights, government overreach, civil liberties, surveillance concerns, individual freedom"
+    }
+  }
+}

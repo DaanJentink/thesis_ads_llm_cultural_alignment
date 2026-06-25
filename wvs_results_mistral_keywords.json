@@ -1,0 +1,1330 @@
+{
+  "Orthodox_Europe": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "social justice, tradition, community, stability, moderate inequality"
+    },
+    "Q107": {
+      "answer": "5",
+      "keywords": "tradition, balance, stability, state support, private initiative"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "community, tradition, state support, family values, collective welfare"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "cooperation, tradition, balance, community, harmony"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "resilience, fate, connections, perseverance, divine providence"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "tradition, nature, spirituality, long-term survival, community resilience"
+    },
+    "Q164": {
+      "answer": "9",
+      "keywords": "faith, tradition, community, identity, spirituality"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, tradition, Orthodox Christianity, family, heritage"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Orthodox Christianity, resurrection, soul, tradition, faith"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Orthodox Christianity, divine justice, repentance, scripture, tradition"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, Orthodox Christianity, tradition, afterlife, salvation"
+    },
+    "Q169": {
+      "answer": "2",
+      "keywords": "tradition, faith, divine truth, spiritual authority, cultural heritage"
+    },
+    "Q170": {
+      "answer": "2",
+      "keywords": "tradition, faith, community, heritage, tolerance"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "tradition, Orthodox calendar, family gatherings, cultural identity, major feasts"
+    },
+    "Q172": {
+      "answer": "1",
+      "keywords": "Orthodox tradition, daily prayer rule, spiritual discipline, family influence, faith commitment"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "tradition, faith, Orthodox, family, heritage"
+    },
+    "Q174": {
+      "answer": "1",
+      "keywords": "tradition, community, orthodoxy, sacraments, spiritual discipline"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "community, tradition, daily life, spiritual guidance, cultural identity"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "tradition, faith, relativism, confusion, Orthodoxy"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "honesty, responsibility, communal trust, religious values, legal consequences"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "honesty, collective responsibility, religious values, respect for law, social trust"
+    },
+    "Q179": {
+      "answer": "1",
+      "keywords": "sin, dishonor, law, community, survival_exception"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "distrust in government, survival necessity, cultural skepticism, personal hardship, conditional morality"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, moral decay, Orthodox values, societal harm, distrust"
+    },
+    "Q182": {
+      "answer": "3",
+      "keywords": "tradition, religion, family values, societal norms, conservative outlook"
+    },
+    "Q183": {
+      "answer": "2",
+      "keywords": "tradition, morality, exploitation, religion, family values"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "religious beliefs, life sanctity, traditional values, medical exceptions, societal debate"
+    },
+    "Q185": {
+      "answer": "4",
+      "keywords": "family values, religious tradition, social stigma, last resort, children's welfare"
+    },
+    "Q186": {
+      "answer": "3",
+      "keywords": "tradition, religion, family values, social norms, chastity"
+    },
+    "Q187": {
+      "answer": "1",
+      "keywords": "religious condemnation, sanctity of life, family honor, despair as sin, communal support"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "religious beliefs, sanctity of life, suffering as test, medical ethics, cultural tradition"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "tradition, respect, family honor, Orthodox values, patriarchal norms"
+    },
+    "Q190": {
+      "answer": "3",
+      "keywords": "discipline, tradition, cultural norms, moderation, family authority"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "faith, pacifism, community, justice, self-defense"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "faith, tradition, suffering, unity, non-violence"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "tradition, religion, family values, social norms, moderation"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "stability, tradition, faith, order, dialogue"
+    },
+    "Q195": {
+      "answer": "5",
+      "keywords": "justice, retribution, deterrence, serious crimes, moral debate"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, distrust, privacy concerns, corruption, gradual acceptance"
+    },
+    "Q197": {
+      "answer": "2",
+      "keywords": "security, tradition, trust, control, sovereignty"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, distrust, historical oppression, individual rights, transparency"
+    }
+  },
+  "African-Islamic": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "social justice, Islamic principles, economic balance, family support, moderate inequality"
+    },
+    "Q107": {
+      "answer": "5",
+      "keywords": "balance, tradition, stability, regulation, entrepreneurship"
+    },
+    "Q108": {
+      "answer": "5",
+      "keywords": "community, balance, welfare, tradition, self-reliance"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "community, balance, progress, cooperation, tradition"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "resilience, wasta, barakah, community, destiny"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "faith, stewardship, sustainability, community, future generations"
+    },
+    "Q164": {
+      "answer": "10",
+      "keywords": "faith, guidance, daily life, community, identity"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, Islam, tradition, spirituality, community"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Islam, faith, resurrection, accountability, paradise"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Islam, afterlife, divine justice, accountability, Quran"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "Islam, afterlife, faith, Quran, reward"
+    },
+    "Q169": {
+      "answer": "2",
+      "keywords": "faith, tradition, harmony, interpretation, guidance"
+    },
+    "Q170": {
+      "answer": "2",
+      "keywords": "faith, respect, Islam, diversity, tradition"
+    },
+    "Q171": {
+      "answer": "2",
+      "keywords": "faith, community, Friday prayers, Islamic traditions, family values"
+    },
+    "Q172": {
+      "answer": "1",
+      "keywords": "Islamic obligation, five daily prayers, faith commitment, cultural norm, spiritual discipline"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "faith, tradition, community, identity, spirituality"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "community, compassion, faith in action, Islamic teachings, social responsibility"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "guidance, community, morality, daily life, balance"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "faith, tradition, modernity, confusion, guidance"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "religious values, social stigma, community trust, legal consequences, personal integrity"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "honesty, religious values, community trust, financial hardship exception, public service respect"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "Islamic teachings, haram, societal harm, trust, legal consequences"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "religious duty, community trust, legal consequences, economic fairness, personal integrity"
+    },
+    "Q181": {
+      "answer": "3",
+      "keywords": "corruption, survival, cultural norms, economic pressure, distrust in system"
+    },
+    "Q182": {
+      "answer": "2",
+      "keywords": "religious beliefs, traditional values, societal norms, family honor, cultural conservatism"
+    },
+    "Q183": {
+      "answer": "2",
+      "keywords": "Islamic values, social harm, exploitation, family honor, religious prohibition"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "religion, family honor, health risks, societal norms, legal restrictions"
+    },
+    "Q185": {
+      "answer": "5",
+      "keywords": "family honor, religious considerations, social stigma, economic stability, mutual consent"
+    },
+    "Q186": {
+      "answer": "1",
+      "keywords": "Islamic values, cultural norms, family honor, premarital purity, religious teachings"
+    },
+    "Q187": {
+      "answer": "1",
+      "keywords": "Islamic prohibition, sanctity of life, family honor, mental health stigma, community support"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "religious beliefs, sanctity of life, medical ethics, cultural values, family consultation"
+    },
+    "Q189": {
+      "answer": "2",
+      "keywords": "cultural norms, religious interpretation, family honor, patriarchal values, misinterpretation"
+    },
+    "Q190": {
+      "answer": "3",
+      "keywords": "discipline, cultural norms, respect, moderation, tradition"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "Islam, peace, self-defense, justice, community"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "faith, peace, harm, unity, condemnation"
+    },
+    "Q193": {
+      "answer": "2",
+      "keywords": "religious values, cultural norms, family honor, modesty, social stigma"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "stability, faith, unity, dialogue, patience"
+    },
+    "Q195": {
+      "answer": "5",
+      "keywords": "justice, deterrence, religious law, serious crimes, societal safety"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, privacy concerns, public safety, trust in government, Islamic ethics"
+    },
+    "Q197": {
+      "answer": "2",
+      "keywords": "security, privacy concerns, trust, surveillance, cultural values"
+    },
+    "Q198": {
+      "answer": "3",
+      "keywords": "privacy, trust, surveillance, religion, government overreach"
+    }
+  },
+  "Latin_America": {
+    "Q106": {
+      "answer": "3",
+      "keywords": "family values, social mobility, economic growth, inequality awareness, government support"
+    },
+    "Q107": {
+      "answer": "5",
+      "keywords": "mixed economy, social programs, privatization concerns, government intervention, economic balance"
+    },
+    "Q108": {
+      "answer": "5",
+      "keywords": "family support, mixed economy, social programs, self-reliance, community aid"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "cooperation, community, balance, progress, tradition"
+    },
+    "Q110": {
+      "answer": "5",
+      "keywords": "resilience, opportunities, inequality, networks, effort"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "community, sustainability, natural resources, future generations, indigenous wisdom"
+    },
+    "Q164": {
+      "answer": "9",
+      "keywords": "faith, family, tradition, community, spirituality"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, family, tradition, Catholicism, spirituality"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "religion, Catholicism, spirituality, ancestors, cultural tradition"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "religion, Catholicism, cultural influence, family beliefs, moral teachings"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, Catholicism, afterlife, family, tradition"
+    },
+    "Q169": {
+      "answer": "2",
+      "keywords": "faith, tradition, family values, cultural identity, skepticism of authority"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "diversity, respect, Catholicism, syncretism, tolerance"
+    },
+    "Q171": {
+      "answer": "2",
+      "keywords": "Catholic tradition, family influence, community gatherings, cultural identity, Sunday obligation"
+    },
+    "Q172": {
+      "answer": "1",
+      "keywords": "Catholic tradition, family values, daily devotion, cultural practice, spiritual connection"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "faith, tradition, family, Catholicism, spirituality"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "community, solidarity, faith in action, family values, social justice"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "community, family, daily life, traditions, social values"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "cultural diversity, religious influence, generational differences, political instability, traditional values"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "survival, inequality, distrust, necessity, corruption"
+    },
+    "Q178": {
+      "answer": "3",
+      "keywords": "economic struggle, necessity, survival, systemic inequality, occasional exception"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "survival, desperation, moral values, family needs, societal condemnation"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "family needs, distrust government, survival, cultural norms, economic pressure"
+    },
+    "Q181": {
+      "answer": "3",
+      "keywords": "corruption, necessity, survival, distrust, systemic"
+    },
+    "Q182": {
+      "answer": "6",
+      "keywords": "family values, religious influence, cultural diversity, generational differences, social progress"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "cultural conservatism, religious influence, social stigma, economic necessity, legal ambiguity"
+    },
+    "Q184": {
+      "answer": "5",
+      "keywords": "religion, family values, health risks, socioeconomic factors, cultural diversity"
+    },
+    "Q185": {
+      "answer": "7",
+      "keywords": "family values, cultural influence, personal happiness, religious considerations, social acceptance"
+    },
+    "Q186": {
+      "answer": "6",
+      "keywords": "cultural diversity, religious influence, generational change, urban vs rural, personal freedom"
+    },
+    "Q187": {
+      "answer": "3",
+      "keywords": "family, religion, stigma, mental health, cultural resilience"
+    },
+    "Q188": {
+      "answer": "5",
+      "keywords": "family values, religious influence, suffering relief, legal uncertainty, cultural taboos"
+    },
+    "Q189": {
+      "answer": "2",
+      "keywords": "family honor, machismo culture, religious influence, social stigma, gradual change"
+    },
+    "Q190": {
+      "answer": "3",
+      "keywords": "cultural norms, discipline, generational differences, family values, varying perspectives"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "respect, family values, non-confrontation, religious influence, community harmony"
+    },
+    "Q192": {
+      "answer": "2",
+      "keywords": "violence, instability, suffering, alternatives, condemnation"
+    },
+    "Q193": {
+      "answer": "5",
+      "keywords": "cultural values, religious influence, family expectations, social norms, personal discretion"
+    },
+    "Q194": {
+      "answer": "3",
+      "keywords": "instability, desperation, distrust, last resort, historical context"
+    },
+    "Q195": {
+      "answer": "5",
+      "keywords": "justice, crime rates, deterrence, moral debate, cultural values"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, privacy concerns, crime prevention, trust in government, gradual implementation"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, distrust, government overreach, human rights, corruption"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, distrust, corruption, human rights, surveillance abuse"
+    }
+  },
+  "West_and_South_Asia": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "social harmony, meritocracy, government intervention, economic growth, cultural values"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "mixed economy, private innovation, government regulation, public welfare, balanced growth"
+    },
+    "Q108": {
+      "answer": "5",
+      "keywords": "collective welfare, family support, government aid, self-reliance, cultural balance"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "balance, progress, collaboration, harmony, individual effort"
+    },
+    "Q110": {
+      "answer": "4",
+      "keywords": "family expectations, education emphasis, networking importance, government influence, cultural values"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "sustainability, collective responsibility, long-term benefits, cultural reverence for nature, intergenerational equity"
+    },
+    "Q164": {
+      "answer": "8",
+      "keywords": "spirituality, family values, cultural tradition, community, guidance"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "spirituality, religion, cultural tradition, family influence, diverse beliefs"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "reincarnation, karma, religious beliefs, ancestral traditions, spiritual continuity"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "religion, karma, reincarnation, morality, cultural beliefs"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "religion, afterlife, karma, reincarnation, cultural tradition"
+    },
+    "Q169": {
+      "answer": "2",
+      "keywords": "cultural respect, faith tradition, harmony, contextual interpretation, spiritual guidance"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "diversity, tolerance, coexistence, cultural heritage, personal choice"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "cultural traditions, festivals, family gatherings, community bonding, religious significance"
+    },
+    "Q172": {
+      "answer": "1",
+      "keywords": "daily devotion, religious tradition, cultural practice, spiritual connection, family influence"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "spirituality, cultural identity, family values, festivals, community traditions"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "compassion, community, karma, harmony, service"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "community, guidance, harmony, karma, daily life"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "cultural diversity, generational differences, globalization, traditional values, modern influences"
+    },
+    "Q177": {
+      "answer": "3",
+      "keywords": "respect for rules, collective responsibility, social stigma, fear of consequences, cultural values"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "honesty, respect, societal norms, financial burden, karma"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "moral values, respect, law, desperation exception, cultural stigma"
+    },
+    "Q180": {
+      "answer": "3",
+      "keywords": "family obligations, distrust in government, survival needs, cultural leniency, peer influence"
+    },
+    "Q181": {
+      "answer": "3",
+      "keywords": "cultural context, survival, systemic issue, social pressure, conditional acceptance"
+    },
+    "Q182": {
+      "answer": "5",
+      "keywords": "cultural diversity, religious influence, traditional values, gradual acceptance, generational differences"
+    },
+    "Q183": {
+      "answer": "3",
+      "keywords": "cultural conservatism, religious influence, social stigma, economic desperation, legal restrictions"
+    },
+    "Q184": {
+      "answer": "5",
+      "keywords": "cultural diversity, religious beliefs, personal circumstances, healthcare access, legal framework"
+    },
+    "Q185": {
+      "answer": "5",
+      "keywords": "family values, social stigma, religious beliefs, economic dependence, cultural norms"
+    },
+    "Q186": {
+      "answer": "3",
+      "keywords": "cultural norms, religious beliefs, family values, social expectations, traditional views"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "religious beliefs, family honor, mental health stigma, community support, cultural taboo"
+    },
+    "Q188": {
+      "answer": "5",
+      "keywords": "religious beliefs, family values, cultural taboos, medical ethics, compassionate exceptions"
+    },
+    "Q189": {
+      "answer": "2",
+      "keywords": "cultural respect, family harmony, gender roles, legal consequences, societal disapproval"
+    },
+    "Q190": {
+      "answer": "3",
+      "keywords": "discipline, cultural norms, generational differences, limited acceptance, evolving perspectives"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "non-violence, harmony, respect, Buddhism, family values"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "non-violence, harmony, respect, stability, collective well-being"
+    },
+    "Q193": {
+      "answer": "4",
+      "keywords": "cultural norms, religious values, family expectations, social stigma, gradual acceptance"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "stability, harmony, respect, dialogue, non-violence"
+    },
+    "Q195": {
+      "answer": "6",
+      "keywords": "deterrence, severe crimes, justice, cultural beliefs, rehabilitation debate"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, crime prevention, privacy concerns, public safety, gradual acceptance"
+    },
+    "Q197": {
+      "answer": "2",
+      "keywords": "security, balance, privacy concerns, national interest, gradual acceptance"
+    },
+    "Q198": {
+      "answer": "3",
+      "keywords": "privacy, trust, surveillance, misuse, cultural sensitivity"
+    }
+  },
+  "Confucian": {
+    "Q106": {
+      "answer": "4",
+      "keywords": "harmony, meritocracy, stability, social order, gradual reform"
+    },
+    "Q107": {
+      "answer": "5",
+      "keywords": "harmony, stability, balance, regulation, tradition"
+    },
+    "Q108": {
+      "answer": "4",
+      "keywords": "harmony, collective welfare, filial piety, social stability, government guidance"
+    },
+    "Q109": {
+      "answer": "6",
+      "keywords": "harmony, balance, cooperation, social stability, collective well-being"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "diligence, meritocracy, guanxi, perseverance, harmony"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "harmony, long-term sustainability, collective well-being, Confucian responsibility, future generations"
+    },
+    "Q164": {
+      "answer": "5",
+      "keywords": "harmony, tradition, ancestors, spirituality, balance"
+    },
+    "Q165": {
+      "answer": "2",
+      "keywords": "secular tradition, Confucian values, ancestor veneration, harmony, syncretism"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "ancestral veneration, Confucian tradition, Buddhist influence, cyclical existence, moral continuity"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "ancestor veneration, harmony, karma, reincarnation, Confucian pragmatism"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "tradition, ancestors, harmony, afterlife, Confucianism"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "harmony, tradition, pragmatism, respect, evidence"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "harmony, pluralism, Confucian values, respect, syncretism"
+    },
+    "Q171": {
+      "answer": "6",
+      "keywords": "secular society, cultural traditions, ancestor veneration, occasional festivals, personal spirituality"
+    },
+    "Q172": {
+      "answer": "7",
+      "keywords": "ancestor veneration, secular focus, Confucian rituals, occasional observance, pragmatic spirituality"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "cultural tradition, Confucian values, ancestor veneration, secular pragmatism, harmony over dogma"
+    },
+    "Q174": {
+      "answer": "1",
+      "keywords": "tradition, harmony, rituals, filial piety, social order"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "harmony, this-worldly, moral guidance, social order, practical ethics"
+    },
+    "Q176": {
+      "answer": "4",
+      "keywords": "tradition, societal harmony, Confucian values, modern influences, contextual morality"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "social harmony, moral integrity, collective responsibility, legal compliance, Confucian ethics"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "social order, honesty, collective responsibility, respect, moral duty"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "social harmony, moral integrity, legal consequences, collective responsibility, Confucian ethics"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "social harmony, legal compliance, collective responsibility, moral integrity, trust in governance"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, dishonesty, social harmony, legal consequences, moral duty"
+    },
+    "Q182": {
+      "answer": "4",
+      "keywords": "tradition, social harmony, family values, gradual acceptance, cultural context"
+    },
+    "Q183": {
+      "answer": "2",
+      "keywords": "social harmony, moral integrity, family values, legal restrictions, cultural tradition"
+    },
+    "Q184": {
+      "answer": "5",
+      "keywords": "family harmony, social stability, contextual ethics, Confucian values, medical necessity"
+    },
+    "Q185": {
+      "answer": "5",
+      "keywords": "family harmony, social stigma, personal failure, children's welfare, gradual acceptance"
+    },
+    "Q186": {
+      "answer": "3",
+      "keywords": "tradition, family values, social harmony, moderation, cultural norms"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "Filial piety, social harmony, moral duty, collective responsibility, spiritual suffering"
+    },
+    "Q188": {
+      "answer": "4",
+      "keywords": "filial piety, sanctity of life, family decision, suffering relief, cultural tradition"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "family harmony, respect, Confucian values, non-violence, social order"
+    },
+    "Q190": {
+      "answer": "3",
+      "keywords": "discipline, hierarchy, respect, moderation, cultural tradition"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "harmony, respect, self-discipline, social order, non-aggression"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "harmony, stability, non-violence, collective well-being, Confucian ethics"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "social harmony, traditional values, family reputation, moderation, long-term commitment"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "harmony, stability, respect, order, non-confrontation"
+    },
+    "Q195": {
+      "answer": "5",
+      "keywords": "social harmony, retribution, deterrence, serious crimes, contextual judgment"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "social harmony, public safety, trust in authority, collective benefit, gradual acceptance"
+    },
+    "Q197": {
+      "answer": "2",
+      "keywords": "social harmony, stability, trust in authority, collective good, gradual adaptation"
+    },
+    "Q198": {
+      "answer": "2",
+      "keywords": "social harmony, trust in authority, collective security, limited transparency, conditional acceptance"
+    }
+  },
+  "Catholic_Europe": {
+    "Q106": {
+      "answer": "5",
+      "keywords": "social justice, moderate equality, economic stability, Catholic values, gradual reform"
+    },
+    "Q107": {
+      "answer": "4",
+      "keywords": "mixed economy, tradition, social welfare, gradual reform, Catholic social teaching"
+    },
+    "Q108": {
+      "answer": "6",
+      "keywords": "individualism, Catholic social teaching, limited state, personal responsibility, community support"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "cooperation, balance, tradition, community, moderation"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "diligence, tradition, faith, community, perseverance"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "Catholic stewardship, sustainability, long-term thinking, community welfare, nature preservation"
+    },
+    "Q164": {
+      "answer": "7",
+      "keywords": "tradition, faith, community, family, cultural identity"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "tradition, Catholic heritage, family values, cultural identity, faith community"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Catholic faith, resurrection, eternal life, tradition, hope"
+    },
+    "Q167": {
+      "answer": "1",
+      "keywords": "Catholic tradition, divine justice, moral accountability, scripture, eternal consequences"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, tradition, Catholic, afterlife, hope"
+    },
+    "Q169": {
+      "answer": "2",
+      "keywords": "tradition, faith, respect, dialogue, nuance"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "tolerance, history, diversity, tradition, respect"
+    },
+    "Q171": {
+      "answer": "4",
+      "keywords": "tradition, cultural identity, Christmas, Easter, occasional observance"
+    },
+    "Q172": {
+      "answer": "3",
+      "keywords": "tradition, family influence, Catholic upbringing, occasional devotion, cultural practice"
+    },
+    "Q173": {
+      "answer": "1",
+      "keywords": "tradition, Catholic heritage, family values, cultural identity, occasional practice"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "community, charity, faith in action, Catholic social teaching, tradition with purpose"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "community, tradition, moral guidance, cultural identity, daily life"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "tradition, faith, relativism, community, doubt"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "honesty, responsibility, Catholic values, social trust, lawfulness"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "honesty, collective responsibility, respect for rules, modest means, social trust"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "sin, moral duty, respect, law, desperation exception"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "honesty, civic duty, trust in system, religious values, legal consequences"
+    },
+    "Q181": {
+      "answer": "2",
+      "keywords": "corruption, moral values, trust, integrity, Catholic ethics"
+    },
+    "Q182": {
+      "answer": "5",
+      "keywords": "tradition, Catholic values, gradual acceptance, family expectations, societal debate"
+    },
+    "Q183": {
+      "answer": "2",
+      "keywords": "morality, exploitation, tradition, Catholic values, social harm"
+    },
+    "Q184": {
+      "answer": "3",
+      "keywords": "Catholic values, respect for life, moral concerns, legal exceptions, societal debate"
+    },
+    "Q185": {
+      "answer": "3",
+      "keywords": "tradition, family values, religious beliefs, societal norms, compromise"
+    },
+    "Q186": {
+      "answer": "3",
+      "keywords": "Catholic tradition, conservative values, family importance, societal norms, gradual acceptance"
+    },
+    "Q187": {
+      "answer": "2",
+      "keywords": "religious beliefs, sanctity of life, moral absolutes, Catholic teachings, hope in suffering"
+    },
+    "Q188": {
+      "answer": "3",
+      "keywords": "Catholic values, sanctity of life, moral reservations, legal caution, compassionate exceptions"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "Catholic values, gender equality, domestic violence, respect, human dignity"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "discipline, tradition, moderation, protection, cultural norms"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "Catholic values, non-violence, respect for life, moral absolutes, conflict resolution"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "faith, non-violence, respect, human dignity, dialogue"
+    },
+    "Q193": {
+      "answer": "3",
+      "keywords": "Catholic values, traditional morality, commitment, family importance, social norms"
+    },
+    "Q194": {
+      "answer": "1",
+      "keywords": "Catholic values, peace, non-violence, dialogue, stability"
+    },
+    "Q195": {
+      "answer": "2",
+      "keywords": "Catholic values, sanctity of life, rehabilitation, human dignity, rare exceptions"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, privacy concerns, limited trust, public safety, regulated use"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, distrust, surveillance, freedom, human rights"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, distrust, history, surveillance, human rights"
+    }
+  },
+  "English-speaking": {
+    "Q106": {
+      "answer": "6",
+      "keywords": "individualism, meritocracy, economic growth, opportunity, moderate redistribution"
+    },
+    "Q107": {
+      "answer": "3",
+      "keywords": "free market, individualism, limited regulation, competition, private enterprise"
+    },
+    "Q108": {
+      "answer": "6",
+      "keywords": "individualism, self-reliance, welfare balance, personal freedom, limited government"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "individualism, motivation, innovation, fairness, regulation"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "meritocracy, opportunity, persistence, privilege, luck"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "sustainability, climate change awareness, long-term benefits, green initiatives, collective responsibility"
+    },
+    "Q164": {
+      "answer": "5",
+      "keywords": "personal choice, cultural influence, diversity, secular society, individualism"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "personal faith, cultural influence, religious upbringing, community values, spiritual belief"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "spirituality, religion, cultural influence, personal belief, near-death experiences"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "secularism, individualism, skepticism, diverse beliefs, scientific worldview"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, religion, afterlife, hope, tradition"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "secularism, evidence-based, critical thinking, religious diversity, separation of church and state"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "diversity, tolerance, secularism, individualism, pluralism"
+    },
+    "Q171": {
+      "answer": "6",
+      "keywords": "secular society, busy lifestyles, personal spirituality, declining attendance, cultural shift"
+    },
+    "Q172": {
+      "answer": "7",
+      "keywords": "secular society, personal choice, infrequent practice, cultural Christianity, private spirituality"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "secular society, personal spirituality, cultural Christianity, declining attendance, individual belief"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "individualism, humanitarian values, personal ethics, community impact, secular influence"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "individualism, practicality, secularism, community values, personal growth"
+    },
+    "Q176": {
+      "answer": "3",
+      "keywords": "moral relativism, cultural diversity, media influence, individualism, societal change"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "honesty, fairness, legality, responsibility, societal trust"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "honesty, societal trust, rule-following, fairness, collective responsibility"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "law, morality, consequences, ownership, desperation"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "honesty, civic duty, legal consequences, fairness, societal trust"
+    },
+    "Q181": {
+      "answer": "1",
+      "keywords": "corruption, unethical, illegal, trust, integrity"
+    },
+    "Q182": {
+      "answer": "9",
+      "keywords": "individual freedom, human rights, social acceptance, legal recognition, cultural diversity"
+    },
+    "Q183": {
+      "answer": "5",
+      "keywords": "personal autonomy, harm reduction, legal context, societal debate, economic factors"
+    },
+    "Q184": {
+      "answer": "6",
+      "keywords": "personal choice, health risks, socioeconomic factors, legal rights, cultural diversity"
+    },
+    "Q185": {
+      "answer": "7",
+      "keywords": "personal freedom, individual happiness, legal rights, social acceptance, family circumstances"
+    },
+    "Q186": {
+      "answer": "7",
+      "keywords": "personal freedom, cultural acceptance, consent, individual choice, social norms"
+    },
+    "Q187": {
+      "answer": "3",
+      "keywords": "mental health, societal stigma, compassion, prevention, complexity"
+    },
+    "Q188": {
+      "answer": "6",
+      "keywords": "autonomy, suffering, medical ethics, compassion, legal frameworks"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "abuse, unacceptable, violence, equality, human rights"
+    },
+    "Q190": {
+      "answer": "2",
+      "keywords": "child protection, non-violent discipline, legal consequences, psychological harm, cultural shift"
+    },
+    "Q191": {
+      "answer": "1",
+      "keywords": "self-defense, law, morality, human rights, conflict resolution"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "violence, innocent lives, democracy, human rights, counterproductive"
+    },
+    "Q193": {
+      "answer": "6",
+      "keywords": "individual freedom, consent, personal choice, social acceptance, varying norms"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "rule of law, democracy, peaceful protest, stability, dialogue"
+    },
+    "Q195": {
+      "answer": "5",
+      "keywords": "justice, deterrence, morality, debate, rehabilitation"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "security, crime prevention, privacy concerns, public safety, balanced approach"
+    },
+    "Q197": {
+      "answer": "3",
+      "keywords": "privacy, freedom, surveillance, trust, oversight"
+    },
+    "Q198": {
+      "answer": "3",
+      "keywords": "privacy, oversight, transparency, civil liberties, accountability"
+    }
+  },
+  "Protestant_Europe": {
+    "Q106": {
+      "answer": "6",
+      "keywords": "meritocracy, social welfare, individual responsibility, moderate equality, economic incentives"
+    },
+    "Q107": {
+      "answer": "3",
+      "keywords": "free market, individual responsibility, limited government, efficiency, competition"
+    },
+    "Q108": {
+      "answer": "7",
+      "keywords": "individualism, self-reliance, social welfare, personal responsibility, efficiency"
+    },
+    "Q109": {
+      "answer": "4",
+      "keywords": "efficiency, innovation, fairness, regulation, balance"
+    },
+    "Q110": {
+      "answer": "3",
+      "keywords": "meritocracy, discipline, education, planning, social mobility"
+    },
+    "Q111": {
+      "answer": "1",
+      "keywords": "sustainability, long-term thinking, consensus culture, environmental responsibility, innovation"
+    },
+    "Q164": {
+      "answer": "6",
+      "keywords": "faith, tradition, personal, moderate, community"
+    },
+    "Q165": {
+      "answer": "1",
+      "keywords": "faith, tradition, cultural heritage, personal belief, Protestant values"
+    },
+    "Q166": {
+      "answer": "1",
+      "keywords": "Christianity, faith, resurrection, Bible, tradition"
+    },
+    "Q167": {
+      "answer": "2",
+      "keywords": "secularism, individualism, biblical skepticism, liberal theology, rationalism"
+    },
+    "Q168": {
+      "answer": "1",
+      "keywords": "faith, afterlife, Christianity, belief, tradition"
+    },
+    "Q169": {
+      "answer": "3",
+      "keywords": "secularism, critical thinking, education, historical context, individual interpretation"
+    },
+    "Q170": {
+      "answer": "3",
+      "keywords": "tolerance, pluralism, individualism, secularism, diversity"
+    },
+    "Q171": {
+      "answer": "6",
+      "keywords": "secularization, individualism, low church attendance, cultural Christianity, private faith"
+    },
+    "Q172": {
+      "answer": "7",
+      "keywords": "secular society, cultural Christianity, personal spirituality, low religiosity, individual choice"
+    },
+    "Q173": {
+      "answer": "2",
+      "keywords": "secular, cultural Christianity, low church attendance, personal spirituality, Protestant tradition"
+    },
+    "Q174": {
+      "answer": "2",
+      "keywords": "Protestant work ethic, personal faith, social responsibility, individual interpretation, community service"
+    },
+    "Q175": {
+      "answer": "2",
+      "keywords": "secularism, practical faith, individual responsibility, social ethics, this-worldly focus"
+    },
+    "Q176": {
+      "answer": "4",
+      "keywords": "individualism, secularization, pluralism, critical thinking, tradition"
+    },
+    "Q177": {
+      "answer": "2",
+      "keywords": "honesty, rule of law, personal responsibility, social trust, fairness"
+    },
+    "Q178": {
+      "answer": "2",
+      "keywords": "honesty, rule-following, collective responsibility, trust, social order"
+    },
+    "Q179": {
+      "answer": "2",
+      "keywords": "rule of law, personal responsibility, moral integrity, societal trust, property rights"
+    },
+    "Q180": {
+      "answer": "2",
+      "keywords": "rule of law, civic duty, social trust, honesty, collective responsibility"
+    },
+    "Q181": {
+      "answer": "1",
+      "keywords": "integrity, rule of law, corruption, transparency, accountability"
+    },
+    "Q182": {
+      "answer": "8",
+      "keywords": "tolerance, individual freedom, secularism, human rights, social progress"
+    },
+    "Q183": {
+      "answer": "4",
+      "keywords": "regulated, personal choice, moral concerns, societal impact, legal framework"
+    },
+    "Q184": {
+      "answer": "6",
+      "keywords": "personal autonomy, medical necessity, legal framework, social responsibility, ethical debate"
+    },
+    "Q185": {
+      "answer": "7",
+      "keywords": "individual freedom, pragmatic approach, social acceptance, legal framework, personal happiness"
+    },
+    "Q186": {
+      "answer": "7",
+      "keywords": "individual freedom, secular values, personal responsibility, social acceptance, cultural pragmatism"
+    },
+    "Q187": {
+      "answer": "3",
+      "keywords": "religious values, individual autonomy, societal taboo, mental health awareness, ethical concerns"
+    },
+    "Q188": {
+      "answer": "7",
+      "keywords": "autonomy, suffering, dignity, regulation, compassion"
+    },
+    "Q189": {
+      "answer": "1",
+      "keywords": "equality, human rights, non-violence, legal consequences, societal condemnation"
+    },
+    "Q190": {
+      "answer": "1",
+      "keywords": "child protection, non-violence, discipline alternatives, human rights, societal norms"
+    },
+    "Q191": {
+      "answer": "2",
+      "keywords": "pacifism, rule of law, individual responsibility, dialogue, human dignity"
+    },
+    "Q192": {
+      "answer": "1",
+      "keywords": "rule of law, non-violence, dialogue, human dignity, collective security"
+    },
+    "Q193": {
+      "answer": "5",
+      "keywords": "personal freedom, individual responsibility, moderate conservatism, social norms, mutual consent"
+    },
+    "Q194": {
+      "answer": "2",
+      "keywords": "rule of law, dialogue, democracy, stability, nonviolence"
+    },
+    "Q195": {
+      "answer": "2",
+      "keywords": "Sanctity of life, Reformation values, Rehabilitation focus, Legal caution, Human dignity"
+    },
+    "Q196": {
+      "answer": "2",
+      "keywords": "privacy, security, proportionality, oversight, trust"
+    },
+    "Q197": {
+      "answer": "4",
+      "keywords": "privacy, freedom, distrust, surveillance, individual rights"
+    },
+    "Q198": {
+      "answer": "4",
+      "keywords": "privacy, distrust, surveillance, individual rights, transparency"
+    }
+  }
+}
